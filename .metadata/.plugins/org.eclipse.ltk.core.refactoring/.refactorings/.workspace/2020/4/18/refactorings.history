@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;91.CompositePrimaryKey&apos; to &apos;91.CompositePrimaryKeyIDClass&apos;&#x0D;&#x0A;- Original element: &apos;91.CompositePrimaryKey&apos;&#x0D;&#x0A;- Renamed element: &apos;91.CompositePrimaryKey&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;91.CompositePrimaryKey&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=91.CompositePrimaryKey" name="91.CompositePrimaryKeyIDClass" references="true" stamp="1588005352716" version="1.0"/>
+</session>
